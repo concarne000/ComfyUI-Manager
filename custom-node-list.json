@@ -29983,6 +29983,16 @@
             "description": "Nodes:TextToSpeech, phy_3_conditioning, SaveAudioToDaVinci, SaveImageToDaVinci.\nNOTE:In order to use DaVinci node you must have DaVinci Resolve Studio connected to the API. For more information check the help seciton in DaVinci Resolve Studio HELP>DOCUMENTATION>DEVELOPER. It will open a folder, search for scripting and the for README.txt file, the API documentation."
         },
         {
+            "author": "concarne000",
+            "title": "ComfyUI-Stacker",
+            "reference": "https://github.com/concarne000/ComfyUI-Stacker",
+            "files": [
+                "https://raw.githubusercontent.com/concarne000/ComfyUI-Stacker/refs/heads/main/__init__.py"
+            ],
+            "install_type": "copy",
+            "description": "Push/Pop stack style nodes for help to split operations across multiple workflows."
+        },
+        {
             "author": "seghier",
             "title": "ComfyUI_LibreTranslate",
             "reference": "https://github.com/seghier/ComfyUI_LibreTranslate",
